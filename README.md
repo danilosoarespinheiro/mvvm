@@ -1,4 +1,4 @@
-# MVVM Sample Project
+# MVVM ImageCities
 > Sample project to demonstrate how to use MVVM architecture. Just for study purposes.
 
 ![license][license-url]
